@@ -1,5 +1,3 @@
-# Firebase Studio
+# Palavrobô Companion
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+ativo no momento: ultima atividade 14 sept 25 / 15:14
